@@ -1,5 +1,5 @@
 const moodPhotos = {
-	happy: ["images/happy_cat1.jpeg"],
+	happy: ["images/happy_cat1.jpeg", "images/happy_cat2.jpeg", "images/happy_cat3.jpeg"],
 	sad: ["images/sad_cat1.jpeg", "images/sad_cat2.jpeg", "images/sad_cat3.jpeg"],
 	disgusted: ["images/disgusted_cat1.jpeg", "images/disgusted_cat2.jpeg", "images/disgusted_cat3.jpeg"],
 	angry: ["images/angry_cat1.jpeg", "images/angry_cat2.jpeg", "images/angry_cat3.jpeg"],
